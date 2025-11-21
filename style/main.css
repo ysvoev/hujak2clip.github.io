@@ -508,7 +508,8 @@ img {
     }
 
     .row {
-      display: ruby-text;
+      display: flex;
+      justify-content: center;
     }
 
 
@@ -657,7 +658,8 @@ img {
     }
 
     .row {
-      display: ruby-text;
+      display: flex;
+      justify-content: center;
     }
 
     .push {
