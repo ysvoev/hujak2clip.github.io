@@ -383,7 +383,7 @@ img {
 
     .showreel-mobile {
       display: block;
-      margin: 4% -4% 20% -4%;
+      margin: 4% -4% 4% -4%;
     }
 
     .center {
@@ -462,6 +462,10 @@ img {
 
     .link {
       margin: 0 32px 12px 0;
+    }
+
+    .top {
+      margin-top: -120px;
     }
 
 
